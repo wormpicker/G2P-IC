@@ -1,6 +1,6 @@
 # G2P-IC
 
-# Construction:
+## Construction:
 The G2P-IC knowledge graph was constructed in Neo4j, a graph database environment. PPI data were obtained
 from STRING (v12), IntAct (release 250) and IID (v2025-05). COEXP data was obtained from GTEx by calculating
 pairwise Spearman correlation scores and selecting the top and bottom 0.1%. Node annotations were derived from
