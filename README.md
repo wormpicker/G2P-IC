@@ -1,5 +1,15 @@
 # G2P-IC
 
+## Introduction
+Collectively, rare diseases affect millions of people worldwide, yet their pathophysiological mechanisms remain
+largely obscure. Traditional genomics studies often lack the statistical power to robustly identify candidate genes
+due to limited patient cohort sizes. Knowledge graphs have emerged as a powerful analytical tool in advancing
+biomedical research. We aim to approach the problem through integrating protein-protein interaction (PPI) and
+gene-gene coexpression (COEXP) data into a knowledge graph. Under the assumption that protein-protein and
+gene-gene correlations have strong connections to functionality, the dual layer nature of the Gene-2-Protein
+Interaction Coexpression (G2P-IC) knowledge graph assists in the discovery of novel disease gene candidates with
+high specificity.
+
 ## Installing G2P-IC
 
 1. Install Neo4j Desktop. Download Neo4j Desktop here:[Neo4j Download Page](https://neo4j.com/download/)
